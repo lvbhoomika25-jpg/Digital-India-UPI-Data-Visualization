@@ -97,3 +97,40 @@ The project generates the following visualizations:
 
 ```bash
 git clone https://github.com/lvbhoomika25-jpg/Digital-India-UPI-Data-Visualization.git
+## 📊 Visualizations
+
+### 1. Year-wise UPI Transaction Growth
+
+![Year-wise UPI Transactions](fig5_1_bar_chart.png)
+
+### 2. Distribution of UPI Metrics
+
+![Distribution of UPI Metrics](fig5_2_histogram.png)
+
+### 3. Monthly Transaction Distribution by Year
+
+![Monthly Transaction Distribution](fig5_3_boxplot.png)
+
+### 4. Correlation Heatmap
+
+![UPI Correlation Heatmap](fig5_4_heatmap.png)
+
+### 5. UPI Application Market Share
+
+![UPI Application Market Share](fig5_5_pie_chart.png)
+
+### 6. Monthly UPI Growth Trend
+
+![Monthly UPI Growth](fig5_6_line_graph.png)
+
+### 7. UPI Success Rate Improvement
+
+![UPI Success Rate](fig5_7_success_rate.png)
+
+### 8. State-wise Transaction Volume
+
+![State-wise UPI Transactions](fig6_1_state_chart.png)
+
+### 9. Merchant vs P2P Transactions
+
+![Merchant vs P2P Transactions](fig6_2_stacked_bar.png)

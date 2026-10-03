@@ -1,0 +1,175 @@
+Year,Month,UPI_Transactions_Million,Transaction_Value_Crore,Bank_Name,State,App_Name,Merchant_Transactions,Peer_to_Peer_Transactions,Success_Rate,Failed_Transactions,Active_Users_Million
+2018,January,5.1,3654,SBI,Maharashtra,PhonePe,1.8,3.3,93.7,321299,5.7
+2018,January,5.2,3771,HDFC Bank,Karnataka,Google Pay,1.9,3.3,92.2,405599,5.7
+2018,February,5.1,3768,ICICI Bank,Delhi,Paytm,1.7,3.4,92.2,397799,5.6
+2018,February,5.5,4115,Axis Bank,Uttar Pradesh,BHIM,1.8,3.7,92.5,412500,5.9
+2018,March,6.2,4374,Kotak Mahindra Bank,Tamil Nadu,Amazon Pay,2.3,3.9,94.0,372000,6.9
+2018,March,6.4,4685,Bank of Baroda,Rajasthan,WhatsApp Pay,1.9,4.5,92.6,473600,7.1
+2018,April,6.9,5186,Punjab National Bank,Gujarat,PhonePe,2.3,4.6,93.6,441600,7.4
+2018,April,6.2,4369,Canara Bank,West Bengal,Google Pay,2.2,4.0,91.8,508400,6.7
+2018,May,7.2,5199,SBI,Telangana,Paytm,2.6,4.6,92.3,554400,8.1
+2018,May,7.3,5184,HDFC Bank,Kerala,BHIM,2.3,5.0,92.0,584000,8.0
+2018,June,8.4,6160,ICICI Bank,Punjab,Amazon Pay,2.7,5.7,94.0,504000,9.4
+2018,June,7.4,5320,Axis Bank,Andhra Pradesh,WhatsApp Pay,2.6,4.8,92.1,584600,8.3
+2018,July,8.8,6506,Kotak Mahindra Bank,Madhya Pradesh,PhonePe,3.0,5.8,94.2,510399,9.7
+2018,July,8.1,5942,Bank of Baroda,Bihar,Google Pay,2.8,5.3,93.3,542700,9.1
+2018,August,8.8,6686,Punjab National Bank,Maharashtra,Paytm,2.9,5.9,91.8,721600,9.4
+2018,August,8.8,6578,Canara Bank,Karnataka,BHIM,3.0,5.8,91.7,730399,9.6
+2018,September,10.1,7658,SBI,Delhi,Amazon Pay,3.1,7.0,91.5,858500,11.2
+2018,September,9.7,6945,HDFC Bank,Uttar Pradesh,WhatsApp Pay,3.2,6.5,91.8,795400,10.6
+2018,October,10.5,7901,ICICI Bank,Tamil Nadu,PhonePe,3.7,6.8,93.0,735000,11.3
+2018,October,11.0,7896,Axis Bank,Rajasthan,Google Pay,3.6,7.4,93.3,737000,11.9
+2018,November,11.4,8512,Kotak Mahindra Bank,Gujarat,Paytm,3.8,7.6,91.5,969000,12.4
+2018,November,10.6,7978,Bank of Baroda,West Bengal,BHIM,3.3,7.3,92.4,805599,11.4
+2018,December,13.1,9237,Punjab National Bank,Telangana,Amazon Pay,4.4,8.7,91.7,1087299,14.6
+2018,December,12.4,9033,Canara Bank,Kerala,WhatsApp Pay,4.1,8.3,92.3,954800,13.9
+2019,January,13.7,10033,SBI,Punjab,PhonePe,4.4,9.3,94.9,698699,14.9
+2019,January,14.9,10821,HDFC Bank,Andhra Pradesh,Google Pay,5.0,9.9,94.7,789699,16.1
+2019,February,14.9,10635,ICICI Bank,Madhya Pradesh,Paytm,5.3,9.6,94.6,804600,16.5
+2019,February,14.9,11198,Axis Bank,Bihar,BHIM,5.4,9.5,95.0,745000,16.5
+2019,March,15.7,11871,Kotak Mahindra Bank,Maharashtra,Amazon Pay,5.2,10.5,95.4,722199,17.5
+2019,March,16.9,11928,Bank of Baroda,Karnataka,WhatsApp Pay,5.7,11.2,95.3,794300,18.6
+2019,April,18.3,13890,Punjab National Bank,Delhi,PhonePe,6.6,11.7,95.3,860100,20.0
+2019,April,18.4,13089,Canara Bank,Uttar Pradesh,Google Pay,6.2,12.2,95.3,864800,20.0
+2019,May,18.8,13659,SBI,Tamil Nadu,Paytm,5.8,13.0,95.6,827200,20.2
+2019,May,20.4,15466,HDFC Bank,Rajasthan,BHIM,6.2,14.2,96.2,775199,22.0
+2019,June,20.5,14843,ICICI Bank,Gujarat,Amazon Pay,7.5,13.0,95.3,963500,23.1
+2019,June,20.3,14764,Axis Bank,West Bengal,WhatsApp Pay,6.9,13.4,96.4,730799,22.9
+2019,July,22.7,16100,Kotak Mahindra Bank,Telangana,PhonePe,7.9,14.8,96.4,817199,25.1
+2019,July,22.7,15967,Bank of Baroda,Kerala,Google Pay,7.5,15.2,95.5,1021500,25.5
+2019,August,23.1,16281,Punjab National Bank,Punjab,Paytm,8.2,14.9,95.7,993299,25.7
+2019,August,22.8,17177,Canara Bank,Andhra Pradesh,BHIM,8.0,14.8,95.7,980399,25.2
+2019,September,25.3,18503,SBI,Madhya Pradesh,Amazon Pay,7.7,17.6,94.9,1290299,28.2
+2019,September,24.6,18211,HDFC Bank,Bihar,WhatsApp Pay,8.6,16.0,95.1,1205400,27.4
+2019,October,26.1,19833,ICICI Bank,Maharashtra,PhonePe,7.8,18.3,94.6,1409400,28.3
+2019,October,27.0,20326,Axis Bank,Karnataka,Google Pay,8.3,18.7,95.2,1295999,29.1
+2019,November,31.1,22911,Kotak Mahindra Bank,Delhi,Paytm,9.4,21.7,95.8,1306200,33.3
+2019,November,30.8,22785,Bank of Baroda,Uttar Pradesh,BHIM,9.4,21.4,94.8,1601600,33.2
+2019,December,31.0,22206,Punjab National Bank,Tamil Nadu,Amazon Pay,10.2,20.8,95.9,1270999,33.5
+2019,December,32.9,23994,Canara Bank,Rajasthan,WhatsApp Pay,10.1,22.8,96.2,1250199,35.4
+2020,January,36.3,25417,SBI,Gujarat,PhonePe,11.5,24.8,96.3,1343100,39.4
+2020,January,37.8,27429,HDFC Bank,West Bengal,Google Pay,14.0,23.8,95.6,1663200,42.4
+2020,February,41.4,31053,ICICI Bank,Telangana,Paytm,13.6,27.8,95.7,1780199,44.6
+2020,February,38.8,29013,Axis Bank,Kerala,BHIM,12.0,26.8,96.7,1280399,42.0
+2020,March,34.7,25914,Kotak Mahindra Bank,Punjab,Amazon Pay,10.7,24.0,96.0,1388000,38.4
+2020,March,34.8,26165,Bank of Baroda,Andhra Pradesh,WhatsApp Pay,10.5,24.3,96.6,1183200,39.1
+2020,April,28.7,20662,Punjab National Bank,Madhya Pradesh,PhonePe,8.7,20.0,96.5,1004500,32.2
+2020,April,31.2,23313,Canara Bank,Bihar,Google Pay,11.3,19.9,96.6,1060800,35.0
+2020,May,36.4,26485,SBI,Maharashtra,Paytm,12.7,23.7,96.5,1274000,39.4
+2020,May,35.2,25333,HDFC Bank,Karnataka,BHIM,10.9,24.3,96.8,1126400,38.3
+2020,June,50.8,38550,ICICI Bank,Delhi,Amazon Pay,16.9,33.9,97.7,1168399,54.7
+2020,June,52.6,39857,Axis Bank,Uttar Pradesh,WhatsApp Pay,18.5,34.1,96.6,1788400,57.7
+2020,July,61.5,45286,Kotak Mahindra Bank,Tamil Nadu,PhonePe,20.6,40.9,97.0,1845000,67.9
+2020,July,58.4,40885,Bank of Baroda,Rajasthan,Google Pay,17.8,40.6,97.2,1635199,65.0
+2020,August,74.7,53922,Punjab National Bank,Gujarat,Paytm,27.3,47.4,97.4,1942199,81.4
+2020,August,71.1,52840,Canara Bank,West Bengal,BHIM,24.8,46.3,96.9,2204099,77.8
+2020,September,78.9,55832,SBI,Telangana,Amazon Pay,26.9,52.0,97.7,1814699,87.6
+2020,September,83.9,60244,HDFC Bank,Kerala,WhatsApp Pay,27.8,56.1,96.5,2936500,91.2
+2020,October,86.8,64169,ICICI Bank,Punjab,PhonePe,29.3,57.5,97.1,2517200,94.0
+2020,October,87.5,65429,Axis Bank,Andhra Pradesh,Google Pay,31.3,56.2,96.6,2975000,96.3
+2020,November,96.4,72213,Kotak Mahindra Bank,Madhya Pradesh,Paytm,30.6,65.8,97.4,2506399,104.4
+2020,November,91.3,65251,Bank of Baroda,Bihar,BHIM,30.7,60.6,97.6,2191200,98.1
+2020,December,108.9,77500,Punjab National Bank,Maharashtra,Amazon Pay,35.0,73.9,97.1,3158100,118.1
+2020,December,111.8,83297,Canara Bank,Karnataka,WhatsApp Pay,35.3,76.5,96.6,3801200,122.5
+2021,January,110.8,81003,SBI,Delhi,PhonePe,40.6,70.2,97.8,2437600,124.2
+2021,January,114.6,84810,HDFC Bank,Uttar Pradesh,Google Pay,34.5,80.1,98.2,2062799,129.2
+2021,February,119.4,88732,ICICI Bank,Tamil Nadu,Paytm,40.0,79.4,98.4,1910399,131.7
+2021,February,119.6,87126,Axis Bank,Rajasthan,BHIM,42.1,77.5,97.8,2631200,132.5
+2021,March,135.2,99724,Kotak Mahindra Bank,Gujarat,Amazon Pay,47.4,87.8,97.6,3244800,147.0
+2021,March,127.3,93235,Bank of Baroda,West Bengal,WhatsApp Pay,45.9,81.4,97.8,2800600,141.5
+2021,April,143.2,103742,Punjab National Bank,Telangana,PhonePe,47.5,95.7,98.0,2864000,155.0
+2021,April,138.9,102097,Canara Bank,Kerala,Google Pay,44.6,94.3,98.4,2222399,155.0
+2021,May,125.4,90426,SBI,Punjab,Paytm,39.8,85.6,98.4,2006399,141.4
+2021,May,126.4,92621,HDFC Bank,Andhra Pradesh,BHIM,41.4,85.0,97.7,2907199,136.9
+2021,June,136.2,98086,ICICI Bank,Madhya Pradesh,Amazon Pay,43.9,92.3,97.9,2860199,147.1
+2021,June,136.7,100793,Axis Bank,Bihar,WhatsApp Pay,50.3,86.4,97.9,2870699,150.9
+2021,July,143.9,101901,Kotak Mahindra Bank,Maharashtra,PhonePe,48.6,95.3,97.6,3453600,157.2
+2021,July,147.1,109688,Bank of Baroda,Karnataka,Google Pay,50.5,96.6,98.3,2500700,164.7
+2021,August,172.0,120600,Punjab National Bank,Delhi,Paytm,57.1,114.9,98.6,2408000,187.7
+2021,August,180.9,133704,Canara Bank,Uttar Pradesh,BHIM,57.4,123.5,98.5,2713500,195.7
+2021,September,173.2,122551,SBI,Tamil Nadu,Amazon Pay,56.0,117.2,98.1,3290800,187.6
+2021,September,188.6,133918,HDFC Bank,Rajasthan,WhatsApp Pay,61.8,126.8,98.3,3206200,203.1
+2021,October,218.8,154579,ICICI Bank,Gujarat,PhonePe,80.6,138.2,97.8,4813600,243.0
+2021,October,222.0,164923,Axis Bank,West Bengal,Google Pay,81.0,141.0,98.3,3774000,245.9
+2021,November,202.0,151705,Kotak Mahindra Bank,Telangana,Paytm,66.3,135.7,97.6,4848000,228.1
+2021,November,219.1,159001,Bank of Baroda,Kerala,BHIM,75.4,143.7,98.1,4162900,238.9
+2021,December,237.8,167965,Punjab National Bank,Punjab,Amazon Pay,72.0,165.8,98.2,4280399,266.3
+2021,December,233.6,173804,Canara Bank,Andhra Pradesh,WhatsApp Pay,70.6,163.0,97.8,5139200,261.3
+2022,January,232.0,168463,SBI,Madhya Pradesh,PhonePe,74.0,158.0,98.6,3248000,260.1
+2022,January,239.9,180620,HDFC Bank,Bihar,Google Pay,84.7,155.2,98.8,2878800,265.5
+2022,February,216.5,162603,ICICI Bank,Maharashtra,Paytm,77.3,139.2,98.6,3031000,242.0
+2022,February,216.0,160287,Axis Bank,Karnataka,BHIM,75.7,140.3,98.4,3455999,243.4
+2022,March,256.7,187215,Kotak Mahindra Bank,Delhi,Amazon Pay,81.4,175.3,99.0,2567000,284.6
+2022,March,269.9,190436,Bank of Baroda,Uttar Pradesh,WhatsApp Pay,95.7,174.2,99.0,2699000,293.8
+2022,April,281.7,206163,Punjab National Bank,Tamil Nadu,PhonePe,95.8,185.9,99.0,2817000,307.0
+2022,April,285.7,204299,Canara Bank,Rajasthan,Google Pay,103.3,182.4,98.6,3999800,307.7
+2022,May,298.9,212550,SBI,Gujarat,Paytm,106.1,192.8,98.8,3586800,332.8
+2022,May,314.5,225490,HDFC Bank,West Bengal,BHIM,114.2,200.3,98.6,4403000,340.8
+2022,June,285.8,209219,ICICI Bank,Telangana,Amazon Pay,100.3,185.5,99.2,2286399,315.3
+2022,June,304.3,228866,Axis Bank,Kerala,WhatsApp Pay,102.1,202.2,99.1,2738700,336.1
+2022,July,312.8,222420,Kotak Mahindra Bank,Punjab,PhonePe,114.6,198.2,99.2,2502399,343.7
+2022,July,326.1,229719,Bank of Baroda,Andhra Pradesh,Google Pay,106.3,219.8,98.4,5217599,351.8
+2022,August,329.9,250603,Punjab National Bank,Madhya Pradesh,Paytm,119.3,210.6,99.0,3299000,365.0
+2022,August,338.8,247782,Canara Bank,Bihar,BHIM,114.7,224.1,98.8,4065600,380.0
+2022,September,358.8,264529,SBI,Maharashtra,Amazon Pay,117.4,241.4,99.0,3588000,404.3
+2022,September,326.9,241783,HDFC Bank,Karnataka,WhatsApp Pay,117.4,209.5,98.5,4903500,351.3
+2022,October,343.2,252467,ICICI Bank,Delhi,PhonePe,120.0,223.2,98.6,4804800,381.8
+2022,October,373.9,277150,Axis Bank,Uttar Pradesh,Google Pay,114.2,259.7,99.0,3739000,414.1
+2022,November,373.3,270832,Kotak Mahindra Bank,Tamil Nadu,Paytm,123.9,249.4,98.9,4106299,419.8
+2022,November,380.1,269854,Bank of Baroda,Rajasthan,BHIM,132.5,247.6,99.0,3801000,419.7
+2022,December,380.9,282369,Punjab National Bank,Gujarat,Amazon Pay,122.3,258.6,99.2,3047199,419.0
+2022,December,390.5,274283,Canara Bank,West Bengal,WhatsApp Pay,132.7,257.8,98.7,5076499,423.7
+2023,January,382.6,287010,SBI,Telangana,PhonePe,126.2,256.4,99.9,382599,432.3
+2023,January,410.2,288130,HDFC Bank,Kerala,Google Pay,130.1,280.1,99.4,2461199,454.9
+2023,February,395.1,290445,ICICI Bank,Punjab,Paytm,128.6,266.5,99.4,2370599,424.9
+2023,February,369.5,273506,Axis Bank,Andhra Pradesh,BHIM,114.5,255.0,99.3,2586500,410.7
+2023,March,421.8,315849,Kotak Mahindra Bank,Madhya Pradesh,Amazon Pay,139.8,282.0,99.4,2530799,459.3
+2023,March,423.6,306792,Bank of Baroda,Bihar,WhatsApp Pay,141.5,282.1,99.9,423599,470.0
+2023,April,443.7,315583,Punjab National Bank,Maharashtra,PhonePe,152.9,290.8,99.7,1331099,491.4
+2023,April,455.1,333566,Canara Bank,Karnataka,Google Pay,138.8,316.3,99.4,2730599,506.0
+2023,May,446.1,328567,SBI,Delhi,Paytm,157.6,288.5,99.1,4014900,492.1
+2023,May,469.7,356753,HDFC Bank,Uttar Pradesh,BHIM,143.8,325.9,99.4,2818199,505.9
+2023,June,485.1,360427,ICICI Bank,Tamil Nadu,Amazon Pay,162.2,322.9,99.2,3880799,543.4
+2023,June,493.2,361553,Axis Bank,Rajasthan,WhatsApp Pay,169.2,324.0,99.8,986400,542.8
+2023,July,526.1,376990,Kotak Mahindra Bank,Gujarat,PhonePe,165.6,360.5,99.4,3156599,592.4
+2023,July,503.7,361137,Bank of Baroda,West Bengal,Google Pay,175.8,327.9,99.5,2518500,569.1
+2023,August,528.1,386735,Punjab National Bank,Telangana,Paytm,182.6,345.5,99.5,2640500,582.3
+2023,August,526.1,374225,Canara Bank,Kerala,BHIM,169.0,357.1,99.5,2630500,570.3
+2023,September,547.8,407936,SBI,Punjab,Amazon Pay,175.6,372.2,99.7,1643399,598.8
+2023,September,541.1,410613,HDFC Bank,Andhra Pradesh,WhatsApp Pay,181.4,359.7,99.0,5411000,595.3
+2023,October,576.9,434089,ICICI Bank,Madhya Pradesh,PhonePe,195.7,381.2,99.5,2884500,633.1
+2023,October,585.7,433000,Axis Bank,Bihar,Google Pay,210.4,375.3,99.4,3514199,660.8
+2023,November,576.2,425806,Kotak Mahindra Bank,Maharashtra,Paytm,178.8,397.4,99.8,1152400,646.2
+2023,November,578.9,430193,Bank of Baroda,Karnataka,BHIM,183.4,395.5,99.8,1157800,620.7
+2023,December,582.8,440163,Punjab National Bank,Delhi,Amazon Pay,174.9,407.9,99.7,1748399,638.8
+2023,December,585.0,440127,Canara Bank,Uttar Pradesh,WhatsApp Pay,198.3,386.7,99.6,2340000,657.7
+2024,January,594.4,426542,SBI,Tamil Nadu,PhonePe,204.3,390.1,99.1,5349600,655.0
+2024,January,633.6,449982,HDFC Bank,Rajasthan,Google Pay,230.9,402.7,99.8,1267200,701.5
+2024,February,590.3,418278,ICICI Bank,Gujarat,Paytm,199.4,390.9,99.2,4722399,640.7
+2024,February,573.3,432309,Axis Bank,West Bengal,BHIM,184.9,388.4,99.1,5159700,628.6
+2024,March,657.6,485529,Kotak Mahindra Bank,Telangana,Amazon Pay,223.8,433.8,99.2,5260799,737.0
+2024,March,645.7,470710,Bank of Baroda,Kerala,WhatsApp Pay,228.2,417.5,99.5,3228500,713.2
+2024,April,703.7,533880,Punjab National Bank,Punjab,PhonePe,227.9,475.8,99.2,5629599,776.9
+2024,April,679.5,477649,Canara Bank,Andhra Pradesh,Google Pay,222.6,456.9,99.4,4076999,763.9
+2024,May,686.1,505260,SBI,Madhya Pradesh,Paytm,236.9,449.2,99.6,2744400,759.7
+2024,May,719.2,531885,HDFC Bank,Bihar,BHIM,223.9,495.3,99.6,2876800,808.5
+2024,June,706.6,513309,ICICI Bank,Maharashtra,Amazon Pay,232.8,473.8,99.7,2119799,759.9
+2024,June,677.6,481460,Axis Bank,Karnataka,WhatsApp Pay,244.4,433.2,99.5,3388000,764.5
+2024,July,722.9,542050,Kotak Mahindra Bank,Delhi,PhonePe,254.5,468.4,99.7,2168699,794.4
+2024,July,746.6,537793,Bank of Baroda,Uttar Pradesh,Google Pay,270.2,476.4,99.9,746599,805.2
+2024,August,785.9,584279,Punjab National Bank,Tamil Nadu,Paytm,236.9,549.0,99.9,785899,878.9
+2024,August,732.2,513151,Canara Bank,Rajasthan,BHIM,243.4,488.8,99.4,4393199,813.0
+2024,September,766.1,574073,SBI,Gujarat,Amazon Pay,233.0,533.1,99.1,6894900,830.5
+2024,September,708.0,519448,HDFC Bank,West Bengal,WhatsApp Pay,216.6,491.4,99.2,5663999,760.2
+2024,October,861.5,618670,ICICI Bank,Telangana,PhonePe,294.1,567.4,99.1,7753500,970.7
+2024,October,809.5,571370,Axis Bank,Kerala,Google Pay,249.2,560.3,99.1,7285500,888.2
+2024,November,789.5,597460,Kotak Mahindra Bank,Punjab,Paytm,269.0,520.5,99.7,2368499,852.1
+2024,November,765.4,558252,Bank of Baroda,Andhra Pradesh,BHIM,261.3,504.1,99.9,765399,820.5
+2024,December,828.4,627126,Punjab National Bank,Madhya Pradesh,Amazon Pay,256.9,571.5,99.1,7455600,920.5
+2024,December,846.3,610622,Canara Bank,Bihar,WhatsApp Pay,289.5,556.8,99.2,6770399,911.7
+2025,January,896.4,663126,SBI,Maharashtra,PhonePe,291.4,605.0,99.5,4482000,960.3
+2025,January,890.0,629724,HDFC Bank,Karnataka,Google Pay,294.1,595.9,99.1,8010000,993.2
+2025,February,791.0,594975,ICICI Bank,Delhi,Paytm,274.5,516.5,99.1,7119000,889.1
+2025,February,771.3,546605,Axis Bank,Uttar Pradesh,BHIM,278.4,492.9,99.2,6170399,833.4
+2025,March,930.4,652109,Kotak Mahindra Bank,Tamil Nadu,Amazon Pay,292.8,637.6,99.2,7443199,1013.6
+2025,March,877.0,652929,Bank of Baroda,Rajasthan,WhatsApp Pay,292.2,584.8,99.7,2630999,963.5

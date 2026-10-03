@@ -81,23 +81,7 @@ The project generates the following visualizations:
 7. UPI Success Rate Graph
 8. State-wise Transaction Bar Chart
 9. Merchant vs P2P Stacked Bar Chart
-
-## 🔑 Key Insights
-
-- UPI transactions show strong growth throughout the analyzed period.
-- Transaction success rates improve significantly over time.
-- UPI application usage shows a concentrated market distribution.
-- State-wise transaction volumes vary considerably.
-- The COVID-19 period shows a temporary disruption followed by strong growth.
-- Transaction volume, transaction value, active users, and other growth metrics show strong relationships.
-
-## ▶️ How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/lvbhoomika25-jpg/Digital-India-UPI-Data-Visualization.git
-## 📊 Visualizations
+10. ## 📊 Visualizations
 
 ### 1. Year-wise UPI Transaction Growth
 
@@ -134,3 +118,19 @@ git clone https://github.com/lvbhoomika25-jpg/Digital-India-UPI-Data-Visualizati
 ### 9. Merchant vs P2P Transactions
 
 ![Merchant vs P2P Transactions](fig6_2_stacked_bar.png)
+
+## 🔑 Key Insights
+
+- UPI transactions show strong growth throughout the analyzed period.
+- Transaction success rates improve significantly over time.
+- UPI application usage shows a concentrated market distribution.
+- State-wise transaction volumes vary considerably.
+- The COVID-19 period shows a temporary disruption followed by strong growth.
+- Transaction volume, transaction value, active users, and other growth metrics show strong relationships.
+
+## ▶️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/lvbhoomika25-jpg/Digital-India-UPI-Data-Visualization.git
